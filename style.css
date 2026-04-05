@@ -74,6 +74,21 @@ footer{
     padding: 20px;
 }
 
+.card button{
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    background: #38bdf8;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.card:hover{
+    transition:translatey(-10px);
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.5);
+}
 
-
+img{
+    width: 250px;
+    height: 200px;
+}
 
